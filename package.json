@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-10-food-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolinaGaivoronska/goit-js-hw-10-food-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolinaGaivoronska/goit-js-hw-10-food-service/issues"
+  },
+  "homepage": "https://github.com/PolinaGaivoronska/goit-js-hw-10-food-service#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
