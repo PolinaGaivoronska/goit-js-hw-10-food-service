@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/PolinaGaivoronska/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/PolinaGaivoronska/goit-js-hw-10-food-service#readme",
+  "homepage": "https://github.com/PolinaGaivoronska/goit-js-hw-10-food-service",
   "dependencies": {
     "express": "^4.17.1",
     "handlebars": "^4.7.6",
